@@ -1,0 +1,17 @@
+.halfWidth {
+    width: 40%;
+  }
+  
+  .fullWidth {
+    width:70%;
+  }
+  
+  .clickLink{
+    cursor: pointer;
+  }
+  
+  .newPosition{
+    bottom:520px;
+    left:700px;
+    width: 50%;
+  }
